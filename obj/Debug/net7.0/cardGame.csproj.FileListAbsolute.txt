@@ -1,0 +1,15 @@
+C:\Users\simli\OneDrive\Desktop\cardGame\bin\Debug\net7.0\cardGame.exe
+C:\Users\simli\OneDrive\Desktop\cardGame\bin\Debug\net7.0\cardGame.deps.json
+C:\Users\simli\OneDrive\Desktop\cardGame\bin\Debug\net7.0\cardGame.runtimeconfig.json
+C:\Users\simli\OneDrive\Desktop\cardGame\bin\Debug\net7.0\cardGame.dll
+C:\Users\simli\OneDrive\Desktop\cardGame\bin\Debug\net7.0\cardGame.pdb
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\cardGame.csproj.AssemblyReference.cache
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\cardGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\cardGame.AssemblyInfoInputs.cache
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\cardGame.AssemblyInfo.cs
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\cardGame.csproj.CoreCompileInputs.cache
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\cardGame.dll
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\refint\cardGame.dll
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\cardGame.pdb
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\cardGame.genruntimeconfig.cache
+C:\Users\simli\OneDrive\Desktop\cardGame\obj\Debug\net7.0\ref\cardGame.dll
